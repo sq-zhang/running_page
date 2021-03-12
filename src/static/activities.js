@@ -1552,6 +1552,20 @@ const activities = [
     "average_heartrate": 113.0,
     "average_speed": 1.563448275862069,
     "streak": 1
+  },
+  {
+    "run_id": 9223370421416113807,
+    "name": "run from keep",
+    "distance": 3625.0,
+    "moving_time": "0:33:06",
+    "type": "Run",
+    "start_date": "2021-03-11 04:24:36",
+    "start_date_local": "2021-03-11 12:24:36",
+    "location_country": "{'latitude': 39.97853922526042, 'longitude': 116.31474555121528, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u5317\u4eac\u5e02', 'city': '\u5317\u4eac\u5e02', 'cityCode': '010'}",
+    "summary_polyline": "",
+    "average_heartrate": 120.0,
+    "average_speed": 1.8252769385699898,
+    "streak": 1
   }
 ];
 
